@@ -3,7 +3,8 @@
   position: relative; }
 
 .intro_container {
-  justify-content: flex-start; }
+  justify-content: flex-start;
+  position: relative; }
 
 .intro__content {
   display: flex;
